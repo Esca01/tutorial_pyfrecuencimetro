@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>533</width>
+    <height>794</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>210</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Frec (Hz)</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>240</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Nota Prox</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>270</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>+-</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>180</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MIDI</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ResMidi">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>180</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>-</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ResFrec">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>210</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>-</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ResNota">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>240</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>-</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ResDist">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>270</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>-</string>
+    </property>
+   </widget>
+   <widget class="QSlider" name="verticalSlider">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>30</y>
+      <width>20</width>
+      <height>691</height>
+     </rect>
+    </property>
+    <property name="minimum">
+     <number>39</number>
+    </property>
+    <property name="maximum">
+     <number>65</number>
+    </property>
+    <property name="singleStep">
+     <number>1</number>
+    </property>
+    <property name="pageStep">
+     <number>10</number>
+    </property>
+    <property name="value">
+     <number>49</number>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>710</y>
+      <width>57</width>
+      <height>14</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>39  D#3</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>680</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>40   E2   6ta cuerda</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>530</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>45   A2   5ta cuerda</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>650</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>41   F2 </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>55</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>64   E4   1ra cuerda</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>30</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>65   F4 </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="boton">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>130</y>
+      <width>80</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Comenzar</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_11">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>50</y>
+      <width>231</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600; color:#00aa00;&quot;&gt;Afinador de Guitara&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>533</width>
+     <height>19</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
