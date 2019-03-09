@@ -1,10 +1,14 @@
 # Monitor de Frecuencia fundamental con Python/PyQt5
 
 Aplicaciones: 
-- Detector de tono (picth)
-- Afinador de instrumentos (guitarra)
-- Salud (terapistas del habla), Musica (canto y reconocedor de rango vocal), etc
+- En musica: como detector de tono (pitch) y reconocedor de rango vocal y afinador de instrumentos (por ejemplo: guitarra)
+- En salud (herramienta de logopedas o terapistas del lenguaje)
 
-Nuesta version: https://github.com/luisfico/tutorial_pyfrecuencimetro
+
+Descargar programa para Windows en el siguiente link:
+http://www.educarte.pro/aplicaciones/pyfrec
+
+Encuentra el proyecto completo en: https://github.com/luisfico/tutorial_pyfrecuencimetro
 Basado en:      https://github.com/michniewicz/python-tuner
-Tutorial: 
+
+Tutorial de como hacer este programa en:
