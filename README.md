@@ -21,6 +21,6 @@ https://www.youtube.com/watch?v=yiUyiFQq2U8&feature=youtu.be
 
 
 <p align="center"> 
-<img src="pyfrec.png">
+<img src="img_app.png">
 </p>
 
