@@ -1,5 +1,4 @@
 #FRECUENCIMETRO-AFINADOR DE GUITARRA con Python/PyQt5
-
 (Monitor de frecuencia fundamental)
 
 Aplicaciones: 
@@ -17,5 +16,6 @@ Encuentra el proyecto completo en: https://github.com/luisfico/tutorial_pyfrecue
 Video-tutorial de como hacer este programa en: 
 https://youtu.be/hM8b0niC8ww
 https://www.youtube.com/watch?v=yiUyiFQq2U8&feature=youtu.be
+
 
 ![alt text](https://github.com/luisfico/tutorial_pyfrecuencimetro/edit/master/pyfrec.png)
