@@ -1,5 +1,7 @@
 # Frecuencímetro-Afinador de guitarra con Python/PyQt5
+<p align="center"> 
 (Monitor de frecuencia fundamental)
+</p>
 
 Aplicaciones: 
 - En musica: como detector de tono (pitch) y reconocedor de rango vocal y afinador de instrumentos (por ejemplo: guitarra)
@@ -18,4 +20,7 @@ https://youtu.be/hM8b0niC8ww
 https://www.youtube.com/watch?v=yiUyiFQq2U8&feature=youtu.be
 
 
-![alt text](pyfrec.png)
+<p align="center"> 
+<img src="pyfrec.png">
+</p>
+
