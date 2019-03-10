@@ -1,3 +1,5 @@
+FRECUENCIMETRO-AFINADOR con Python/PyQt5
+
 # Monitor de Frecuencia fundamental con Python/PyQt5
 
 Aplicaciones: 
@@ -6,9 +8,15 @@ Aplicaciones:
 
 
 Descargar programa para Windows en el siguiente link:
-http://www.educarte.pro/aplicaciones/pyfrec
+http://www.educarte.pro/aplicaciones/pyfrec/pyfrec.exe
 
 Encuentra el proyecto completo en: https://github.com/luisfico/tutorial_pyfrecuencimetro
-Basado en:      https://github.com/michniewicz/python-tuner
 
-Tutorial de como hacer este programa en:
+(Basado en: https://github.com/michniewicz/python-tuner)
+
+Video-tutorial de como hacer este programa en: 
+https://youtu.be/hM8b0niC8ww
+https://www.youtube.com/watch?v=yiUyiFQq2U8&feature=youtu.be
+
+
+![alt text](https://github.com/luisfico/tutorial_pyfrecuencimetro/edit/master/pyfrec.png)
