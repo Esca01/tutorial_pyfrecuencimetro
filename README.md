@@ -16,8 +16,8 @@ Encuentra el proyecto completo en: https://github.com/luisfico/tutorial_pyfrecue
 (Basado en: https://github.com/michniewicz/python-tuner)
 
 Video-tutorial de como hacer este programa en: 
-https://youtu.be/hM8b0niC8ww
-https://www.youtube.com/watch?v=yiUyiFQq2U8&feature=youtu.be
+https://youtu.be/U9E1Ps2EKig
+https://www.youtube.com/watch?v=U9E1Ps2EKig&feature=youtu.be
 
 
 <p align="center"> 
