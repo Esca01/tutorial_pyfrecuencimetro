@@ -1,4 +1,5 @@
 #FRECUENCIMETRO-AFINADOR DE GUITARRA con Python/PyQt5
+
 (Monitor de frecuencia fundamental)
 
 Aplicaciones: 
