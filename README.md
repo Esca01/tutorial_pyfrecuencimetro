@@ -18,4 +18,4 @@ https://youtu.be/hM8b0niC8ww
 https://www.youtube.com/watch?v=yiUyiFQq2U8&feature=youtu.be
 
 
-![alt text](https://github.com/luisfico/tutorial_pyfrecuencimetro/edit/master/pyfrec.png)
+![alt text](pyfrec.png)
