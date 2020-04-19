@@ -9,6 +9,7 @@ Aplicaciones:
 
 
 Descargar programa para Windows en el siguiente link:
+https://1drv.ms/u/s!Am8g-DQOgrqerl17CGBEn5oba_Xg?e=jIzzlI
 http://www.educarte.pro/aplicaciones/pyfrec/pyfrec.exe
 
 Encuentra el proyecto completo en: https://github.com/luisfico/tutorial_pyfrecuencimetro
