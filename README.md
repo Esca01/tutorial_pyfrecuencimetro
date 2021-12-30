@@ -25,3 +25,8 @@ https://www.youtube.com/watch?v=U9E1Ps2EKig&feature=youtu.be
 <img src="img_app.png">
 </p>
 
+
+Requerimientos para Linux (ejemplo en Ubuntu 20.04):
+	
+	sudo apt install python3-pyaudio
+
